@@ -11,11 +11,11 @@ public class Primitive {
         double numarCuPunct = 8.5;
 
         char unSingurCaracter = 'G';
-        long numarFoarteMare = 127642964274629;
+        long numarFoarteMare = 164274629;
 
         short numarMaiMic = (short) 356223;
         boolean trueSauFalse = true;
-        boolean trueSauFalse = false;
+        boolean trueSauFalse2 = false;
 
         byte valoareMax = -126;
     }
